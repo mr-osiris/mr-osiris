@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Prathamesh Rajendra Bhutkar</h1>
+<h1 align="center">🧠 Prathamesh Bhutkar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Student%20|%20Developer%20|%20AI%20Enthusiast%20|%20Photographer;&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />

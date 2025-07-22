@@ -18,10 +18,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student at **PCCoE, Pune (SPPU)**
+- 🎓 Computer Engineering 
 - 🧠 Passionate about **AI, full-stack development**, and **open-source**
-- 📷 Club Photographer | Hacktoberfest Winner 2023-24
-- 🏆 1st Prize Winner - College Level Hackathon
+- 📷 Photographer 
+- Hacktoberfest🏆 1st Prize Winner 2023-24
+- College Level Hackathon Winner 🥈🥉🥉
 
 ---
 

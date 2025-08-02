@@ -40,7 +40,7 @@
 
 ### 🗄 Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,oraclesql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### ☁️ Cloud:

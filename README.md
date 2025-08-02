@@ -40,12 +40,12 @@
 
 ### 🗄 Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,oraclesql" />
 </p>
 
 ### ☁️ Cloud:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase" />
 </p>
 
 ### 🛠 Tools & Platforms:

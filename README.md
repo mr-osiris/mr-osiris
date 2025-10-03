@@ -30,12 +30,12 @@
 
 ### 💻 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python" />
 </p>
 
 ### 🧩 Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,nodejs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,react,tailwind,typescript" />
 </p>
 
 ### 🗄 Databases:

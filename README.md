@@ -57,7 +57,16 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-osiris&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=mr-osiris&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-osiris&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 

@@ -30,7 +30,7 @@
 
 ### 💻 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,python" />
 </p>
 
 ### 🧩 Frameworks & Libraries:
@@ -45,7 +45,7 @@
 
 ### ☁️ Cloud:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws, supabase" />
 </p>
 
 ### 🛠 Tools & Platforms:

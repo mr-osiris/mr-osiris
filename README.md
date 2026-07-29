@@ -45,7 +45,7 @@
 
 ### ☁️ Cloud:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws, supabase" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### 🛠 Tools & Platforms:
